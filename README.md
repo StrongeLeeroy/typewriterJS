@@ -9,7 +9,7 @@ TypewriterJS is a simple JavaScript library that creates a console typing effect
 > - Give your `<span>` an **id** attribute: `<span id="type-box"></span>`
 > - Call the following function: `typeWritter('type-box', 'Hello World!', 300);`
 
-> typeWriter(spanId, text, time);
+> `typeWriter(spanId, text, time);`
 
 > The *first argument* is the **id attribute** of the span where we want the text to be typed in.
 
